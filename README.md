@@ -9,11 +9,6 @@ If you are a beginner and looking to improve SQL or an experienced developer int
 
 
 
-### Please <a href="https://www.youtube.com/@StartPracticing"> <img align="center" src="https://www.freeiconspng.com/uploads/youtube-subscribe-button-classic-png-2.png" alt="start practicing"  height="40" width="140" /> </a> to my Youtube Channel
-
-
-
-
 
 
 | Lectures | Video Link | LeetCode Question | Solution |
@@ -70,9 +65,3 @@ If you are a beginner and looking to improve SQL or an experienced developer int
 | 50) 1517. Find Users With Valid E-Mails  | <a href="https://youtu.be/mRBu6xiTaTo?si=JezFU8E9uj84BFl5"> <img align="center" src="https://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" alt="start practicing"  height="40" width="150" /> </a> <br>    | <a href="https://leetcode.com/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=top-sql-50"> <img align="center" src="https://ih1.redbubble.net/image.4319740961.7776/st,small,507x507-pad,600x600,f8f8f8.webp" alt="start practicing"  height="40" width="50" /> </a> <br>    |  <a href="https://github.com/arfin-parween/SQL-50-Leetcode-/blob/main/1517-find-users-with-valid-e-mails/1517-find-users-with-valid-e-mails.sql"> <img align="center" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="start practicing"  height="40" width="35" /> </a> <br>    |
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@StartPracticing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="start practicing" height="30" width="40" /></a>
-<a href="https://instagram.com/i._am._arfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i._am._arfin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="start practicing" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arfin-parween/" target="blank"><img align="center" src="https://i.stack.imgur.com/gVE0j.png" alt="Arfin Parween" height="30" width="40" /></a>
